@@ -1,0 +1,96 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color:#E0EDE1;
+
+}
+
+.menu {
+    height: 70px;
+    background-color:#37474F;
+}
+
+.giticon {
+    display: inline;
+    position: relative;
+    top: 15px;
+    left: 20px
+}
+
+.heading {
+    display: inline;
+    position: relative;
+    left: 40%;
+    bottom: 10%;
+    color:#ECEFF1;
+    font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.side {
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 300px;
+    height: 500px;
+    background-color: rgb(28, 27, 27);
+    border-radius: 20px;
+    display: inline-block;
+    position: relative;
+    
+}
+.content {
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 800px;
+    height: 500px;   
+    border-radius: 20px;
+    display: inline-block;
+    position: absolute;
+}
+ 
+.search {
+    width:500px;
+    height: 30px;
+    margin-left: 175px;
+    background-color :rgb(28, 27, 27);
+    display: inline-block;
+    border-radius: 20px;
+
+    
+}
+.searchtext {
+    border-radius: 20px;
+    width: 500px;
+    height: 30px;
+    background: none;
+    border-color:rgb(28, 27, 27);
+    color:white;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+
+.box {
+    width:185px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 70px;
+    background-color :rgb(28, 27, 27);
+    display: inline-block;
+    border-radius: 20px;
+   
+}
+.box1 {
+    margin-top: 60px;
+    margin-left: 70px;
+    width:700px;
+    height: 200px;
+    background-color :rgb(28, 27, 27);
+    display: inline-block;
+    border-radius: 20px;   
+}
